@@ -1,17 +1,21 @@
 ---
 
-baseurl: https://pablogcaldito.github.io/
+baseurl: https://caldito.me/
 title: Pablo Gómez-Caldito
 languageCode: en-us
 theme: hello-friend-ng
 paginate: 10
-
+author:
+  name: Pablo Gómez-Caldito
 params:
   dateform: Jan 2, 2006
   dateformShort: Jan 2
   dateformNum: "2006-01-02"
   dateformNumTime: "2006-01-02 15:04"
-  homeSubtitle: DevOps Engineer and CSE student based in Madrid
+  homeSubtitle: DevOps Engineer and CSE student based in Madrid.
+  # Links
+  footerLeft: Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>
+  footerRight: Hosted on <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a>
   portrait:
     path: /images/me.jpg
     alt: picture
@@ -45,7 +49,7 @@ taxonomies:
   series: series
 languages:
   en:
-    copyright: '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    copyright: '<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>'
     readOtherPosts: "Read other posts"
 #menu:
 #  main:
