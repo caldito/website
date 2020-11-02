@@ -10,7 +10,7 @@ Built with [Hugo](https://gohugo.io) static site generator.
 
 First clone the repo and go to its directory:
 
-```git clone https://github.com/pablogcaldito/web.git && cd website```
+```git clone https://github.com/caldito/web.git && cd website```
 
 You can serve it on ```localhost:1313``` by entering on your terminal the command ```hugo server```
 
